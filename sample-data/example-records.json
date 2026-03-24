@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lead_001",
+    "name": "BrightTax Solutions",
+    "type": "Lead",
+    "status": "New",
+    "owner": "Ndala",
+    "priority": "High"
+  },
+  {
+    "id": "lead_002",
+    "name": "Northside Fitness",
+    "type": "Lead",
+    "status": "In Progress",
+    "owner": "Operations",
+    "priority": "Medium"
+  },
+  {
+    "id": "task_001",
+    "name": "Client onboarding setup",
+    "type": "Task",
+    "status": "Pending",
+    "owner": "Admin",
+    "priority": "High"
+  }
+]
